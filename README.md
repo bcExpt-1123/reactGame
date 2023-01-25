@@ -1,4 +1,4 @@
-# Demo version of the game rougelike by @Yevhii Potylchak and @Vlad Karimov
+# Demo version of the game rougelike by @Daniel Yoshida
 
 ## Next versions will be developt in privet repositories 
 - <a href="https://roguelike-v0-5-2.netlify.app/" target="_blank">v0.5.2</a>
